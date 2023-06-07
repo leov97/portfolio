@@ -1,0 +1,29 @@
+
+.container-lpg{
+    display: flex;
+    flex-direction: column;
+}
+.container-info{
+    position: relative;
+    top: 6.25rem;
+}
+.prueba{
+    width: 100%;
+    height: 30rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.prueba-dos{
+    background-color: white;
+    position: fixed ;
+    margin-top:4rem;;
+    width: 60rem;
+    height: 35rem;
+    left: 50%;
+    top: 50%;
+    border-radius: 7px;
+    transform: translate(-50%, -50%);
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}

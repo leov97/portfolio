@@ -1,0 +1,60 @@
+
+.card-portfolio{
+    background-color: white;
+    width: 19rem;
+    height: 24rem;
+    position:relative;
+    border-radius: 15px;
+    margin-left: 3rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;;
+    
+}
+
+.header-ing{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.6rem;
+}
+.header-ing h3{
+    font-size: 1.3rem;
+    font-family: 200;
+}
+
+.header-icon{
+    margin-right: 1rem;
+    font-size: 1.3rem;
+    
+}
+.perfil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.perfil img{
+    width: 14rem;
+    height: 15rem;
+}
+
+.ing-bottom{
+    width: 100%;
+    position: absolute;
+    bottom: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-ing{
+    padding: 0 1.5rem;
+    font-size: 1.3rem;
+}
+
+.btn-ing span{
+    margin: 0.4rem;
+}
+
+.footer{
+    width: 100%;
+    margin-top: 7rem;
+    height: 7rem;
+    background-color: rgb(201, 183, 162);
+}
